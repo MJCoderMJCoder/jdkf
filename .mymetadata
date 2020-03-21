@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="jdkf"
+  id="myeclipse.1279271979625"
+  context-root="/jdkf"
+  j2ee-spec="5.0"
+  archive="jdkf.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
