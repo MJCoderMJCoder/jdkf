@@ -85,7 +85,7 @@
 	<br>
 	<table width="559" height="423" border="0" align="center" cellpadding="0" cellspacing="0"  background="<%=path %>/img/dfff.jpg">
 	 <tr>
-	    <td><div align="center" style="FONT-WEIGHT: bold; FONT-SIZE: 33pt;">基于java的酒店管理系统</div></td>
+	    <td><div align="center" style="FONT-WEIGHT: bold; FONT-SIZE: 33pt;">酒店管理系统</div></td>
 	 </tr>
 	 <tr>
 		<td width="559">
